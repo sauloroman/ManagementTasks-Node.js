@@ -8,6 +8,8 @@
 npm install
 ```
 
+<p>It's important to mention that you must have installed Node.js to run this project.</p>
+
 The above command will download the required dependencies. These dependencies are:
 
 <ul>
